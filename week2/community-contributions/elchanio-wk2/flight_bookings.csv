@@ -1,0 +1,2 @@
+booking_id,departure_city,destination_city,departure_date,is_round_trip,return_date,booking_timestamp
+FLEEA4D395,New York,Athens,2025-08-01,False,,2025-07-26 21:22:27
